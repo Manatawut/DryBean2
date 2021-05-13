@@ -1,0 +1,12 @@
+name: DryBean2
+title: DryBean2
+username:
+account: manatawut
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4126866
+bundleId: 4595333
+url: https://manatawut.shinyapps.io/DryBean2/
+when: 1620931459.96696
+asMultiple: FALSE
+asStatic: FALSE
